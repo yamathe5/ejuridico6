@@ -30,3 +30,6 @@ test-results/
 *.tmp
 *.bak
 *~
+
+# Netlify local state
+.netlify/

@@ -1,0 +1,4 @@
+[build]
+  publish = "."
+
+# Static HTML site: no build command is required.
