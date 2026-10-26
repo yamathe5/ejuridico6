@@ -1,0 +1,32 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores y herramientas locales
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencias y artefactos de desarrollo
+node_modules/
+.cache/
+.tmp/
+tmp/
+coverage/
+dist/
+build/
+playwright-report/
+test-results/
+
+# Registros y archivos locales de entorno
+*.log
+.env
+.env.*
+!.env.example
+
+# Archivos temporales y respaldos
+*.tmp
+*.bak
+*~
